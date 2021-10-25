@@ -1,0 +1,1 @@
+ D:\\Projetos\\Aulas\\ThermalPrinter\\thermalprinter\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart D:\\Projetos\\Aulas\\ThermalPrinter\\thermalprinter\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  D:\\Projetos\\Aulas\\ThermalPrinter\\thermalprinter\\l10n.yaml D:\\Projetos\\Aulas\\ThermalPrinter\\thermalprinter\\lib/src/localization\\app_en.arb
